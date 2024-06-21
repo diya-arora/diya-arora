@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - &nbsp;  Specialize in **C, C++, Python, Java, JavaScript, and frameworks like ReactJS and NextJS.**<br>
 - &nbsp;  Exploring data structures, algorithms, and system design. <br>
 - &nbsp;  Open to discussions on tech topics, collaboration on projects, or offering advice. Always happy to help! 🌸 <br>
-- &nbsp;  Fun fact *dont know one* 🌸 <br>
+- &nbsp;  Fun fact: *dont know one* 🌸 <br>
 - &nbsp;  🌸 Contact Me: [diyaw1704@gmail.com](mailto:diyaw1704@gmail.com)<br>
 
 <hr>
