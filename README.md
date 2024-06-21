@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 - &nbsp;  Exploring data structures, algorithms, and system design. <br>
 - &nbsp;  Open to discussions on tech topics, collaboration on projects, or offering advice. Always happy to help! 🌸 <br>
 - &nbsp;  Fun fact *dont know one* 🌸 <br>
-- &nbsp;  🌸 Contact Me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diyaw1704@gmail.com)<br>
-
+- &nbsp;  🌸 Contact Me: [diyaw1704@gmail.com](mailto:diyaw1704@gmail.com)<br>
 
 <hr>
 
@@ -43,5 +42,6 @@ Here are some ideas to get you started:
 &emsp;
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyaw1704@gmail.com)
 &emsp;
+
 
 </div>
