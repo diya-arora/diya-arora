@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div style= "text-align = center;">
+<div align = "center">
     <img src="./assets/pc-banging.gif" width="250"> 
 </div>
 
