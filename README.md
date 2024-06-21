@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 
 <div align = "center">
-    <img src="./assets/pc-banging.gif" width="650"> 
+    <img src="./assets/pc-banging.gif" width="400"> 
 </div>
 
 <h3 align="center">Connect with me:</h3>
