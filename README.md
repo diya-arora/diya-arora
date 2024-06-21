@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### 🧐 More About Me:
-- &nbsp;  Currently working on diverse **JavaScript projects and full-stack applications.**.<br>
+- &nbsp;  Currently working on diverse **JavaScript projects and full-stack applications**.<br>
 - &nbsp;  Proficient with the **MERN Stack**, integrating modern technologies to create intuitive solutions.<br>
 - &nbsp;  Specialize in **C, C++, Python, Java, JavaScript, and frameworks like ReactJS and NextJS.**<br>
 - &nbsp;  Exploring data structures, algorithms, and system design. <br>
