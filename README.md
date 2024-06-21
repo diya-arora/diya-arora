@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <hr>
 
+<img src="./assets/pc-banging.gif" width="35"> 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
