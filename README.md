@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img src="./assets/pc-banging.gif" width="250" align= 'centre'> 
+<div style= "display: flex; justify-content: center; align-items:center">
+    <img src="./assets/pc-banging.gif" width="250"> 
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
